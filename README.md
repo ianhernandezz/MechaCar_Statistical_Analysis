@@ -74,6 +74,8 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 <img width="568" alt="Screen Shot 2022-02-09 at 1 48 18 AM" src="https://user-images.githubusercontent.com/92615504/153137779-35ed6421-2211-4d15-8794-3713b20654bc.png">
 
+* 
+
 
 **LOT 2**
 
