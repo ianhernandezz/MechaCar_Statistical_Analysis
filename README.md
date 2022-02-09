@@ -55,10 +55,15 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 
 ![Screen Shot 2022-02-07 at 3 28 36 PM](https://user-images.githubusercontent.com/92615504/153132162-5294537f-07d9-46a6-8768-2407dc834be9.png)
+
 ![Screen Shot 2022-02-07 at 5 14 55 PM](https://user-images.githubusercontent.com/92615504/153132313-d8315000-1f0a-4749-8127-3d6e09b090e4.png)
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+  As shown above on the Lot table, it indicates that 2 lots are under 100 psi (within specifications, but it is also indicating that lot 3 is well over the threshold, at 170.286. 
+  
+  
+# Deliverable 3
   
 
 
