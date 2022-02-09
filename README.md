@@ -66,6 +66,23 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 # Deliverable 3
   
 
+**Total** 
+
+<img width="412" alt="Screen Shot 2022-02-09 at 1 48 47 AM" src="https://user-images.githubusercontent.com/92615504/153137688-840a0f28-7c98-449a-b2e3-5a428fab836c.png">
+
+**LOT 1**
+
+<img width="568" alt="Screen Shot 2022-02-09 at 1 48 18 AM" src="https://user-images.githubusercontent.com/92615504/153137779-35ed6421-2211-4d15-8794-3713b20654bc.png">
+
+
+**LOT 2**
+
+<img width="551" alt="Screen Shot 2022-02-09 at 1 48 24 AM" src="https://user-images.githubusercontent.com/92615504/153137804-ef4cf854-1865-4e31-bcc7-03c2002dddb5.png">
+
+**LOT 3**
+
+<img width="557" alt="Screen Shot 2022-02-09 at 1 48 31 AM" src="https://user-images.githubusercontent.com/92615504/153137840-5f5f89dd-f4db-4e30-ae0c-decf2c89a668.png">
+
 
 
 
