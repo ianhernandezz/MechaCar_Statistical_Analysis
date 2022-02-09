@@ -72,6 +72,8 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 **LOT 1**
 
+- This lot is not significant from the mean. As the p-value is shown below. 
+
 <img width="568" alt="Screen Shot 2022-02-09 at 1 48 18 AM" src="https://user-images.githubusercontent.com/92615504/153137779-35ed6421-2211-4d15-8794-3713b20654bc.png">
 
 * 
@@ -79,9 +81,13 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 **LOT 2**
 
+- This lot is not significant from the mean. P-value shown below. 
+
 <img width="551" alt="Screen Shot 2022-02-09 at 1 48 24 AM" src="https://user-images.githubusercontent.com/92615504/153137804-ef4cf854-1865-4e31-bcc7-03c2002dddb5.png">
 
 **LOT 3**
+
+- This lot is significant from the population mean. P-value is shown below. 
 
 <img width="557" alt="Screen Shot 2022-02-09 at 1 48 31 AM" src="https://user-images.githubusercontent.com/92615504/153137840-5f5f89dd-f4db-4e30-ae0c-decf2c89a668.png">
 
