@@ -92,6 +92,14 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 <img width="557" alt="Screen Shot 2022-02-09 at 1 48 31 AM" src="https://user-images.githubusercontent.com/92615504/153137840-5f5f89dd-f4db-4e30-ae0c-decf2c89a668.png">
 
 
+# DELIVERABLE 4
+# Study Design: MechaCar vs Competition.
+
+Analizing MechaCar to its competitors many things can come into play to make that analysis. As a test to help create this analysis, I would recommend the ANOVA test, because you can use data points from any competitor to compare. The information needed to perform said analysis would be; engine size, type of care, and year. The purpose of this test is to compare engine size to the competitors and determine whether it is ia factor. The Null Hypo being, the engine size of MechaCar is the same as their competitors. The Alternative Hypo, the engine size of MechaCar is not the same as their competitors. Doing this analysis should be able to provide sufficient to support these conclusions and provide insight for a better understanding. 
+
+
+
+
 
 
 
